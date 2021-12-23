@@ -8,7 +8,7 @@
 .menu ul li{
 	margin-right: 35px !important;
 }
-..menu ul li:last-child{
+.menu ul li:last-child{
 	margin: 0px !important;
 }
 .menu ul li a{
